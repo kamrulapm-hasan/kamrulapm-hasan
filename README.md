@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Md Kamrul Hasan 👋
 
-<!--
-**kamrulapm-hasan/kamrulapm-hasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Business Administration – Business Analytics  
+📊 Background in Applied Mathematics  
+💻 Interested in Data Analytics, Business Intelligence & Data-Driven Decision Making
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- Excel
+- Data Analysis
+- Statistics
+- Business Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently working on
+- Python data analysis projects
+- SQL projects
+- Business analytics projects
+
+## Connect with me
+- LinkedIn: [https://www.linkedin.com/in/md-kamrul-hasan-79490a28a/]
+- Email: [291013@stud.inn.no]
